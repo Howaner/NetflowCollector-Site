@@ -1,0 +1,9 @@
+{
+  "docs": {
+    "Using NetflowCollector": ["getting-started", "configuration", "license"],
+    "Contribute": ["contribution", "database-guidelines"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}

@@ -1,0 +1,82 @@
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+#try ol li {
+	text-align: left;
+}
+#try ol {
+	list-style: decimal outside none;
+}
+
+.container .wrapper h3 {
+	margin-top: 30px;
+	margin-bottom: 0;
+}
+
+.mainContainer .wrapper p, .blockElement p {
+	padding: 0.4em 0 0 0;
+}
+
+a {
+	color: #8A2BE2;
+}
+
+.bigButton {
+	text-align: left;
+}
+
+.bigButton a {
+	width: 300px;
+	height: 30px;
+	vertical-align: middle;
+	line-height: 30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+.container.darkBackground {
+	padding: 0;
+	padding-bottom: 20px;
+}
+.container.darkBackground p {
+	text-align: left;
+}
+.container.darkBackground .blockImage {
+	height: 100%;
+	position: relative;
+}
+.container.darkBackground .blockImage img {
+	max-height: 100%;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+.imageAlignTop .blockImage {
+	max-height: 60px;
+	max-width: none;
+}
+.imageAlignTop .blockImage img {
+	max-width: inherit;
+	max-height: 60px;
+}
