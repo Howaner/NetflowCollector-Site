@@ -11,7 +11,7 @@
 const siteConfig = {
   title: 'NetflowCollector' /* title for your website */,
   tagline: 'A netflow server that writes the flows into a database',
-  url: 'https://netflowcollector.howaner.de' /* your website url */,
+  url: 'https://netflowcollector.net' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
